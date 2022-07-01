@@ -1,7 +1,7 @@
 {
     "wallpaper":"https://picsum.photos/1280/720/?blur=10",
     
-    "spider":"https://roubaomo.github.io/jk/ll.jar",
+    "spider":"https://roubaomo.github.io/jk/zy/ll.jar",
     
     //lives在OpenDrive上
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
